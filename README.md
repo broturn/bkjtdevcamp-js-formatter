@@ -6,7 +6,7 @@
 Install with the command:
 
 ```
-npm install --save bkjtdevcamp-js-footer
+npm install --save bkjtdevcamp-js-formatter
 ```
 Add to a JavaScript Project with the following code:
 
