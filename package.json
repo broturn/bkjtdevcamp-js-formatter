@@ -1,0 +1,25 @@
+{
+  "name": "bkjtdevcamp-js-formatter",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broturn/bkjtdevcamp-js-formatter.git"
+  },
+  "keywords": [
+    "Footer"
+  ],
+  "author": "Brodie Turner <broturn@gmail.com> (https://www.linkedin.com/in/brodie-turner-a82a2b4a/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/broturn/bkjtdevcamp-js-formatter/issues"
+  },
+  "homepage": "https://github.com/broturn/bkjtdevcamp-js-formatter#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
